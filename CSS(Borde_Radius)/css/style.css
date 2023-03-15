@@ -1,0 +1,99 @@
+* {
+    margin:0;
+    padding: 0;
+}
+
+.boxing {
+    display: inline-block;
+}
+
+
+.circle {
+    margin-left:0.5rem;
+    margin-top: 0.5rem;
+    background-color: #003d1c;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    
+    
+}
+
+.quaterCircle {
+    margin-right: 3rem;
+    background-color: #56c288;
+    width: 100px;
+    height: 100px;
+    border-bottom-left-radius: 100%;
+    
+    
+}
+
+.square {
+    margin-left:0.5rem;
+    margin-top: 0.5rem;
+    background-color: #6975EC;
+    width: 100px;
+    height: 100px;
+    border-radius: 12% ;
+}
+.circle2 {
+    background-color: #ccd1d7;
+    width: 100px;
+    height: 100px;
+    border-radius: 50% ;
+}
+
+.youtube {
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+    margin-right: 3rem;
+    width: 200px;
+    height: 100px;
+    border: 2px solid red;
+    background-color: red;
+    border-radius: 25%;
+
+}
+
+.logo {
+    margin:25px 0px 0px 85px;
+    background-color: red;
+    width: 0px;
+    height: 0px;
+    border-top: 25px solid transparent;
+    border-left: 35px solid white;
+    border-bottom: 25px solid transparent;
+    
+} 
+
+.rainbow {
+    margin-left: 0.5rem;
+    height: 60px;
+    width: 100px;
+    border-radius: 100px 100px 0 0 ;
+    background-color: #f6b800;
+    
+  
+}
+.rainbow2 {
+    height: 100px;
+    width: 60px;
+    border-radius: 0rem 60px 60px 0rem ;
+    background-color: #e64132;
+
+}
+.rainbow3 {
+    margin-left: 47px;
+    height: 100px;
+    width: 60px;
+    border-radius: 60px 0rem 0rem 60px ;
+    background-color: #31a452;
+}
+.rainbow4 {
+    margin-bottom: 40px;
+    height: 60px;
+    width: 100px;
+    border-radius: 0rem 0rem 60px 60px ;
+    background-color: #4081ef;
+}
